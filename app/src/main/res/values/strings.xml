@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bakalarium</string>
+    <string name="title_home">Domů</string>
+    <string name="title_úkoly">Úkoly</string>
+    <string name="title_známky">Známky</string>
+    <string name="title_rozvrh">Rozvrh</string>
+    <string name="title_ostatní">Ostatní</string>
+    <string name="finished">Hotovo</string>
+    <string name="unfinished">Nedokončeno</string>
+    <string name="internet_explain">Přístup k internetu je pro funkčnost aplikace nezbytný.</string>
+    <string name="username">Přihlašovací jméno</string>
+    <string name="password">Heslo</string>
+    <string name="school_bklr_url">URL adresa bakalářů školy</string>
+    <string name="add_account">Přidat účet</string>
+    <string name="unofficial_app_warning">Tato aplikace není oficiální aplikací k systému Bakaláři a není nijak spojena s firmou BAKALÁŘI software s.r.o. Zadané přihlašovací údaje budou uloženy do vašeho zařízení a v zašifrované podobě odesílány na adresu zadanou do pole URL adresa bakalářů školy.</string>
+    <string name="what_is_school_bklr_url">Co je to URL adresa bakalářů školy?</string>
+    <string name="username_key" translatable="false">username</string>
+    <string name="no_accounts">Začněte tím, že přidáte účet.</string>
+    <string name="select_account">Vybrat účet</string>
+    <string name="parent">Rodič</string>
+    <string name="pupil">Žák</string>
+    <string name="change_account">Přepnout účet</string>
+    <string name="about_app">O aplikaci</string>
+    <string name="error_not_bklr_url">Zadaná adresa není URL adresou serveru Bakalářů.</string>
+    <string name="error_wrong_password">Uživatelské jméno nebo heslo nejsou správně.</string>
+</resources>

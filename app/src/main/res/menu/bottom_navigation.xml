@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ukoly"
+        android:icon="@drawable/ic_ukoly_black_24dp"
+        android:title="@string/title_úkoly"/>
+
+    <item
+        android:id="@+id/navigation_znamky"
+        android:icon="@drawable/ic_znamka_black_24dp"
+        android:title="@string/title_známky"/>
+
+    <item
+        android:id="@+id/navigation_domu"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"/>
+
+
+    <item
+        android:id="@+id/navigation_rozvrh"
+        android:icon="@drawable/ic_rozvrh_black_24dp"
+        android:title="@string/title_rozvrh"/>
+
+    <item
+        android:id="@+id/navigation_dalsi"
+        android:icon="@drawable/ic_ostatni_black_24dp"
+        android:title="@string/title_ostatní"/>
+
+</menu>

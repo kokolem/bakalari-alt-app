@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/change_account"
+        android:title="@string/change_account"></item>
+    <item
+        android:id="@+id/about_app"
+        android:checkable="false"
+        android:title="@string/about_app"
+        ></item>
+</menu>

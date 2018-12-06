@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bakalarium</string>
+    <string name="title_home">Home</string>
+    <string name="title_úkoly">Homework</string>
+    <string name="title_známky">Grades</string>
+    <string name="title_rozvrh">Schedule</string>
+    <string name="title_ostatní">Others</string>
+    <string name="finished">Done</string>
+    <string name="unfinished">Unfinished</string>
+    <string name="internet_explain">Internet access in needed for the app to work.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="school_bklr_url">URL adress of your Bakaláři</string>
+    <string name="add_account">Add Account</string>
+    <string name="unofficial_app_warning">This app isn\'t the official app of the Bakaláři system and is not a product of the BAKALÁŘI software company. The username and password you enter into the app will be saved into your device and will be sent to the adress you entered as URL of your Bakaláři in encrypted form.</string>
+    <string name="what_is_school_bklr_url">What is your Bakaláři adress?</string>
+    <string name="no_accounts">Start by adding an account.</string>
+    <string name="select_account">Select Account</string>
+    <string name="parent">Parent</string>
+    <string name="pupil">Pupil</string>
+    <string name="change_account">Switch account</string>
+    <string name="about_app">About app</string>
+    <string name="error_not_bklr_url">Given adress isn\'t adress pointing to Bakaláři.</string>
+    <string name="error_wrong_password">Given username or password are wrong.</string>
+</resources>

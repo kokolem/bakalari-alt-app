@@ -1,0 +1,24 @@
+package vitek.bakalari.Others;
+
+import android.os.Bundle;
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.TextView;
+
+import vitek.bakalari.R;
+
+public class OthersFragment extends Fragment {
+    private View mDemoView;
+    private TextView mDemoTextView;
+    @Override
+    public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        mDemoView = inflater.inflate(R.layout.fragment_demo_main, container, false);
+        mDemoTextView = mDemoView.findViewById(R.id.demoText);
+        mDemoTextView.setText("Ostatní");
+        return mDemoView;
+    }
+}
