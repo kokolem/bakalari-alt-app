@@ -31,3 +31,14 @@ A takhle archiv (snad :-) odevzdaných:
 Takhle se bude přihlašovat:
 
 ![Takhle se bude přihlašovat](https://ctrlv.cz/shots/2019/01/06/bm3a.png)
+
+## Changelog
+
+### Commit 20190106:
+
+- Přidána třída na výpočet tokenu
+- Přidáno parsování XML pro salt, ikod a typ
+- Přidáno parsování XML pro jméno uživatele
+- Opravena chyba, při které se šlo bez přidání účtu vrátit na demo
+- Při prvním spuštění se rovnou zobrazí obrazkovka s přidáním účtu
+- Při nedokončené změně účtu se při dalším spuštění rovnou ukáže obrazkovka s výběrem účtu
