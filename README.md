@@ -30,4 +30,4 @@ A takhle archiv (snad :-) odevzdaných:
 
 Takhle se bude přihlašovat:
 
-![Takhle se bude přihlašovat](https://ctrlv.cz/shots/2018/12/06/MHp0.png)
+![Takhle se bude přihlašovat](https://ctrlv.cz/shots/2019/01/06/bm3a.png)
