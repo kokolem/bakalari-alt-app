@@ -17,15 +17,15 @@ Veškeré funkce oficiální aplikace a něco navíc:
 ### Jak bude vypadat
 Takhle bude vypadat seznam zadaných úkolů:
 
-![Takhle budou vypadat zadané úkoly](https://ctrlv.cz/shots/2018/12/06/w8Vp.png)
+![Takhle budou vypadat zadané úkoly](https://ctrlv.cz/shots/2019/01/06/u0IU.png)
 
 A takhle hotových:
 
-![A takhle hotové](https://ctrlv.cz/shots/2018/12/06/F3vS.png)
+![A takhle hotové](https://ctrlv.cz/shots/2019/01/06/cczD.png)
 
 A takhle archiv (snad :-) odevzdaných:
 
-![A takhle archiv (snad :-) odevzdaných](https://ctrlv.cz/shots/2018/12/06/O4OV.png)
+![A takhle archiv (snad :-) odevzdaných](https://ctrlv.cz/shots/2019/01/06/TQkj.png)
 
 
 Takhle se bude přihlašovat:
