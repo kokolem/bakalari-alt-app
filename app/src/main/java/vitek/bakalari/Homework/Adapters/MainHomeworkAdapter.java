@@ -1,10 +1,10 @@
 package vitek.bakalari.Homework.Adapters;
 
+import android.util.Log;
+
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
-import android.util.Log;
-
 import vitek.bakalari.Homework.Fragments.ArchiveHomeworkFragment;
 import vitek.bakalari.Homework.Fragments.DoneHomeworkFragment;
 import vitek.bakalari.Homework.Fragments.ToDoHomeworkFragment;

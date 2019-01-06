@@ -4,9 +4,6 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,6 +12,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
 import vitek.bakalari.R;
 
 public class AccountAdapter extends RecyclerView.Adapter<AccountAdapter.MyViewHolder> {
@@ -92,7 +91,7 @@ public class AccountAdapter extends RecyclerView.Adapter<AccountAdapter.MyViewHo
             @Override
             public void onClick(View view) {
                 mResultIntent = new Intent();
-                mResultIntent.putExtra("userName", mDataSet.get(holder.getAdapterPosition()).getUserName());
+                mResultIntent.putExtra("username", mDataSet.get(holder.getAdapterPosition()).getUserName());
                 mResultIntent.putExtra("password", mDataSet.get(holder.getAdapterPosition()).getPassword());
                 mResultIntent.putExtra("schoolURL", mDataSet.get(holder.getAdapterPosition()).getSchoolURL());
                 ((Activity)mContext).setResult(Activity.RESULT_OK, mResultIntent);

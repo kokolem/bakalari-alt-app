@@ -21,6 +21,7 @@
     <string name="pupil">Žák</string>
     <string name="change_account">Přepnout účet</string>
     <string name="about_app">O aplikaci</string>
-    <string name="error_not_bklr_url">Zadaná adresa není URL adresou serveru Bakalářů.</string>
-    <string name="error_wrong_password">Uživatelské jméno nebo heslo nejsou správně.</string>
+    <string name="error_wrong_url">Zadaná adresa není URL adresou serveru Bakalářů.</string>
+    <string name="error_wrong_password">Zadané heslo není správně.</string>
+    <string name="error_wrong_username">Zadané uživatelské jméno není správně.</string>
 </resources>

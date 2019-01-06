@@ -62,7 +62,7 @@ public class SelectAccountActivity extends AppCompatActivity {
             }
         }
 
-        mFab.setColorFilter(Color.WHITE); // make the FAB white
+        mFab.setColorFilter(Color.WHITE); // make the FAB icon white
         mFab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

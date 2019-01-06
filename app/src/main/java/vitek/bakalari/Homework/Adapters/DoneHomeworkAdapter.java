@@ -1,8 +1,6 @@
 package vitek.bakalari.Homework.Adapters;
 
 import android.content.Context;
-import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +11,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
 import vitek.bakalari.Homework.Homework;
 import vitek.bakalari.Homework.HomeworkDataHolder;
 import vitek.bakalari.R;
